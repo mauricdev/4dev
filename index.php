@@ -134,7 +134,7 @@
                             <div class="col-lg-6">
                                 <div class="nk-block-video animated" data-animate="fadeInUp" data-delay=".5">
                                     <img src="images/video/ab.jpg" alt="video">
-                                    <a href="https://www.youtube.com/watch?v=YixfhPcfl18" class="nk-block-video-play video-popup btn-play btn-play-light"><em class="fas fa-play"></em></a>
+                                    <a href="https://www.youtube.com/watch?v=nvkuS__SEN0" class="nk-block-video-play video-popup btn-play btn-play-light"><em class="fas fa-play"></em></a>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +182,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h5 class="title title-sm">Queremos que ahorres tú dinero</h5>
-                                        <p>Contamos con personal capacitado en dar consultarias a su empresa</p>
+                                        <p>Contamos con personal capacitado en dar consultarias a su empresa.</p>
                                     </div>
                                 </div>
                             </div>
@@ -495,12 +495,12 @@ echo $output;
                                         <img src="images/team/koke.jpg" alt="team">
                                         <a href="#team-popup-2" class="team-show content-popup"></a>
                                         <ul class="team-social">
-                                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
-                                            <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
+                                            <li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163/"><em class="fab fa-linkedin-in"></em></a></li>
+                                            <li><a href="https://github.com/Donkokes"><em class="fab fa-github"></em></a></li>
                                         </ul>
                                     </div>
                                     <h5 class="team-name title title-sm">Jorge Troncoso</h5>
-                                    <span class="team-position">Ingeniero en informatica</span>
+                                    <span class="team-position">Ingeniero en Informática</span>
                                 </div>
                                 <!-- Start .team-popup  -->
                                 <div id="team-popup-2" class="team-popup mfp-hide">
@@ -514,10 +514,10 @@ echo $output;
                                         <div class="col-md-6">
                                             <div class="team-popup-info pl-md-3">
                                                 <h3 class="team-name title title-lg pt-4">Jorge Troncoso</h3>
-                                                <p class="team-position">Ingeniero en informatica</p>
+                                                <p class="team-position">Ingeniero en Informática</p>
                                                 <ul class="team-social mb-4">
-                                                    <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
-                                                    <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                                                    <li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163/"><em class="fab fa-linkedin-in"></em></a></li>
+                                                    <li><a href="https://github.com/Donkokes"><em class="fab fa-github"></em></a></li>
                                                 </ul>
                                                 <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
                                                 <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
