@@ -182,7 +182,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h5 class="title title-sm">Queremos que ahorres tú dinero</h5>
-                                        <p>Contamos con personal capacitado en dar consultarias a su empresa.</p>
+                                        <p>Contamos con personal capacitado en dar consultarias a su empresa</p>
                                     </div>
                                 </div>
                             </div>
