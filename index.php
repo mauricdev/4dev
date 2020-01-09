@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="zxx" class="js">
+<html lang="Es" class="js">
 <head>
 	<meta charset="utf-8">
-	<meta name="author" content="Softnio">
+	<meta name="author" content="4dev.cl">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="">
+    <meta name="description" content="">
+    <meta name="keyword" content="desarrollo, development,4,4dev,dev,4d,concepcion,conce,concepción,desarrollo concepcion,empresa,spa,cuatro,developer,developers">
 	<!-- Fav Icon  -->
 	<link rel="shortcut icon" href="images/favicon.png">
 	<!-- Site Title  -->
-	<title>ICO Crypto - ICO Landing Page &amp; Multi-Purpose Cryptocurrency HTML Template</title>
+	<title>4Dev.SpA</title>
 	<!-- Bundle and Base CSS -->
 	<link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=150">
 	<link rel="stylesheet" href="assets/css/style.css?ver=150">
@@ -28,7 +29,6 @@
 						<div class="header-logo logo animated" data-animate="fadeInDown" data-delay=".6">
 							<a href="./" class="logo-link">
 								<img class="logo-dark" src="images/header/logotipo4dev.png" srcset="images/header/logotipo4dev.png 2x" alt="logo">
-								<img class="logo-light" src="images/header/logotipo4dev.png" srcset="images/header/logotipo4dev.png 2x" alt="logo">
 							</a>
 						</div>
 
@@ -69,7 +69,7 @@
                                     <div class="col-lg-7 col-sm-10 text-center text-lg-left">
                                         <div class="banner-caption cpn tc-light">
                                             <div class="cpn-head">
-                                                <h1 class="title animated" data-animate="fadeInUp" data-delay="1">4dev.cl</h1>
+                                                <h1 class="title animated" data-animate="fadeInUp" data-delay="1">4Dev.SpA</h1>
                                             </div>
                                             <div class="cpn-text">
                                                 <p class="animated" data-animate="fadeInUp" data-delay="1.1">Unete al mundo de la digitalizacion.</p>
@@ -126,8 +126,8 @@
                                 <div class="nk-block-text">
                                     <h2 class="title">Acerca de 4dev.cl</h2>
                                     <p class="animated" data-animate="fadeInUp" data-delay=".2">Somos una empresa joven qué cuenta con profesionales que apoyarán en la creación de software y consultoria para potenciar su negocio . </p>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".3"><strong>Nuestra Mision</strong> <br>Digitalizar a las  pequeños y medianas empresas para que no se queden atras en la era de la digitalización. </p>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".4"><strong>Nuestra Vision</strong><br>Ser reconocidos como una de las mejores empresas de la octaba region en el apoyo de las pequeñas y medianas empresas.</p>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".3"><strong>Nuestra Mision</strong> <br>Apoyar a las pequeñas y medianas empresas a mejorar su negocio integrandose en la era de la digitalización. </p>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".4"><strong>Nuestra Vision</strong><br>Ser reconocidos como la mejor empresa de la octaba región con respecto al apoyo de las pequeñas y medianas empresas.</p>
                                   
                                 </div>
                             </div>
@@ -171,7 +171,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h5 class="title title-sm">Innovación, nuestro segundo nombre</h5>
-                                        <p>Somos un equipo con altos estandares de innovación que ,mediante metodologias, queremos crear un mejor futuro.</p>
+                                        <p>Somos un equipo con altos estandares de innovación donde mediante metodologias, potenciaremos un mejor futuro para tu negocio.</p>
                                     </div>
                                 </div>
                             </div>
