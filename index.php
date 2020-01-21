@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html lang="Es" class="js">
+<html lang="es" class="js">
 <head>
 	<meta charset="utf-8">
-	<meta name="author" content="4dev.cl">
+	<meta name="author" content="4Dev SpA">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="keyword" content="desarrollo, development,4,4dev,dev,4d,concepcion,conce,concepción,desarrollo concepcion,empresa,spa,cuatro,developer,developers">
+    <meta name="description" content="4Dev SpA, es una empresa nacida en concepción, dedicada a los servicios informáticos enfocándose en el desarrollo, consultorías y el área de la salud con una mirada hacia el futuro en la innovación apoyando a las pequeñas y medianas empresas a potenciar su negocio de la mejor forma posible.">
+    <meta name="keyword" content="desarrollo, development,4,4dev,dev,4d,concepcion,conce,concepción,desarrollo concepcion,empresa,spa,cuatro,developer,developers, servicios informáticos, servicios, informática">
 	<!-- Fav Icon  -->
 	<link rel="shortcut icon" href="images/favicon.png">
-	<!-- Site Title  -->
-	<title>4Dev.SpA</title>
-	<!-- Bundle and Base CSS -->
+	<!-- Titulo del Sitio  -->
+	<title>4Dev SpA | Servicios Informáticos</title>
+	<!--  CSS -->
 	<link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=150">
 	<link rel="stylesheet" href="assets/css/style.css?ver=150">
-	<!-- Color Scheme CSS -->
+
 	<link rel="stylesheet" href="assets/css/theme.css?ver=150" id="theming">
 	
 </head>
@@ -69,10 +69,10 @@
                                     <div class="col-lg-7 col-sm-10 text-center text-lg-left">
                                         <div class="banner-caption cpn tc-light">
                                             <div class="cpn-head">
-                                                <h1 class="title animated" data-animate="fadeInUp" data-delay="1">4Dev.SpA</h1>
+                                                <h1 class="title animated" data-animate="fadeInUp" data-delay="1">4Dev SpA | Servicios Informáticos</h1>
                                             </div>
                                             <div class="cpn-text">
-                                                <p class="animated" data-animate="fadeInUp" data-delay="1.1">Unete al mundo de la digitalizacion.</p>
+                                                <p class="animated" data-animate="fadeInUp" data-delay="1.1">Un Mundo De Soluciones A Tú Alcance!</p>
                                             </div>
                                             <div class="cpn-action">
                                                 <div class="cpn-btns animated" data-animate="fadeInUp" data-delay="1.2">
@@ -98,21 +98,24 @@
             <section class="section no-pd text-center over-up">
                 <h6 class="title title-xs tc-secondary pdb-s animated" data-animate="fadeInUp" data-delay="1.4">Nuestros clientes</h6>
                 <ul class="rank-list">
+                    <!--
                     <li class="rank-item animated" data-animate="fadeInUp" data-delay="0.5">
                         <img src="images/logo/a.png" alt="logo">                  
                     </li>
                     <li class="rank-item animated" data-animate="fadeInUp" data-delay="0.6">
                         <img src="images/logo/b.png" alt="logo">
                     </li>
+                    -->
                     <li class="rank-item animated" data-animate="fadeInUp" data-delay="0.7">
                         <img src="images/logo/c.png" alt="logo">
                     </li>
+                    <!--
                     <li class="rank-item animated" data-animate="fadeInUp" data-delay="0.8">
                         <img src="images/logo/d.png" alt="logo">
                     </li>
                     <li class="rank-item animated" data-animate="fadeInUp" data-delay="0.9">
                         <img src="images/logo/e.png" alt="logo">
-                    </li>
+                    </li> --->
                 </ul>
             </section>
             <!-- // -->
@@ -124,8 +127,8 @@
                         <div class="row align-items-center gutter-vr-30px pdb-l">
                             <div class="col-lg-6">
                                 <div class="nk-block-text">
-                                    <h2 class="title">Acerca de 4dev.cl</h2>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".2">Somos una empresa joven qué cuenta con profesionales que apoyarán en la creación de software y consultoria para potenciar su negocio . </p>
+                                    <h2 class="title">Acerca de 4Dev SpA</h2>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".2">4Dev SpA, es una empresa nacida en Concepción, dedicada a los servicios informáticos enfocándose en el desarrollo, consultorías y el área de la salud con una mirada hacia el futuro en la innovación apoyando a las pequeñas y medianas empresas a potenciar su negocio de la mejor forma posible.</p>
                                     <p class="animated" data-animate="fadeInUp" data-delay=".3"><strong>Nuestra Mision</strong> <br>Apoyar a las pequeñas y medianas empresas a mejorar su negocio integrandose en la era de la digitalización. </p>
                                     <p class="animated" data-animate="fadeInUp" data-delay=".4"><strong>Nuestra Vision</strong><br>Ser reconocidos como la mejor empresa de la octaba región con respecto al apoyo de las pequeñas y medianas empresas.</p>
                                   
@@ -134,7 +137,7 @@
                             <div class="col-lg-6">
                                 <div class="nk-block-video animated" data-animate="fadeInUp" data-delay=".5">
                                     <img src="images/video/ab.jpg" alt="video">
-                                    <a href="https://www.youtube.com/watch?v=nvkuS__SEN0" class="nk-block-video-play video-popup btn-play btn-play-light"><em class="fas fa-play"></em></a>
+                                    <a href="https://www.youtube.com/watch?v=kecKsdb3MAE" class="nk-block-video-play video-popup btn-play btn-play-light"><em class="fas fa-play"></em></a>
                                 </div>
                             </div>
                         </div>
@@ -378,62 +381,72 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
 
             </section>
             <!-- // -->
+            <!--
             <section class="section section-l section-roadmap bg-white" id="roadmap">
             <div class="section-head text-center wide-auto">
                             <h2 class="title">Instagram</h2>
                             <p class="animated" data-animate="fadeInUp" data-delay=".2">Siguenos para mas sorpresas!.</p>
-                        </div><!-- .section-head @e -->
-<div class= "container">
-<?php
-// Llamamos al archivo que creamos anteriormente, si usaste otro nombre cambialo aquí
-include_once "instagram.php";
+                        </div> <!-- .section-head @e -->
+                         <!--
+                            <div class= "container">
+                            
+                            -->
+                            <?php
 
-$items = getImages($limit);
-$total_items = count($items);
+                            /*
 
-if ( $total_items <= 0 ) {
-    
-    $output = 'No hay publicaciones a mostrar';
+                            // Llamamos al archivo que creamos anteriormente, si usaste otro nombre cambialo aquí
+                            include_once "instagram.php";
 
-} else {
-    $output = '<div class="row">';
+                            $items = getImages($limit);
+                            $total_items = count($items);
 
-    for ($i=0; $i < $limit; $i++) {
-        // break if total items less than count
-        if($i == $total_items){
-            break;
-        }
+                            if ( $total_items <= 0 ) {
+                                
+                                $output = 'No hay publicaciones a mostrar';
 
-        $output .= '<div class="col-6 col-md-3 pb-3">';
-        $output .= (!empty($items[$i]->images->standard_resolution->url)) ? '<a class="sppb-instagram-gallery-btn" href="' . $items[$i]->link . '" target="_blank">' : '';
-        $output .= '<div class="addon-instagram-item-wrap">';
+                            } else {
+                                $output = '<div class="row">';
 
-        $output .= '<div class="addon-instagram-image-wrap">';
-        $output .= '<img class="instagram-image img-fluid" src="' . $items[$i]->images->standard_resolution->url . '" alt="">';
-        $output .= '</div>';
-        
-        $output .= '</div>';
-        
-        $output .= (!empty($items[$i]->images->standard_resolution->url)) ? '</a>' : '';
-        $output .= '</div>';
+                                for ($i=0; $i < $limit; $i++) {
+                                    // break if total items less than count
+                                    if($i == $total_items){
+                                        break;
+                                    }
 
-        }
-    $output .= '</div>';
-}
+                                    $output .= '<div class="col-6 col-md-3 pb-3">';
+                                    $output .= (!empty($items[$i]->images->standard_resolution->url)) ? '<a class="sppb-instagram-gallery-btn" href="' . $items[$i]->link . '" target="_blank">' : '';
+                                    $output .= '<div class="addon-instagram-item-wrap">';
 
-echo $output;    
+                                    $output .= '<div class="addon-instagram-image-wrap">';
+                                    $output .= '<img class="instagram-image img-fluid" src="' . $items[$i]->images->standard_resolution->url . '" alt="">';
+                                    $output .= '</div>';
+                                    
+                                    $output .= '</div>';
+                                    
+                                    $output .= (!empty($items[$i]->images->standard_resolution->url)) ? '</a>' : '';
+                                    $output .= '</div>';
 
+                                    }
+                                $output .= '</div>';
+                            }
 
-?>
-</div>
+                            echo $output;    
+                            */
+
+                            ?>
+
+                            <!--
+                            </div>
             </section>
+            -->
             <section class="section section-l section-team bg-light pt-0" id="team">
 
                 <div class="container">
                     <!-- Section Head @s -->
                     <div class="section-head text-center wide-auto">
                     <br>
-                            <h2 class="title">Nuestro team</h2>
+                            <h2 class="title">Nuestro Equipo</h2>
                     </div><!-- .section-head @e -->
                     <!-- Block @s -->
                     <div class="nk-block nk-block-team-list team-list">
@@ -860,11 +873,11 @@ echo $output;
                                             <h6>Unete a nuestra comunidad</h6>
                                             <ul class="social-links">
                                                 <li><a href="#"><em class="fab fa-twitter"></em></a></li>
-                                                <li><a href="https://www.instagram.com/mauri_theo/"><em class="fab fa-instagram"></em></a></li>
+                                                <li><a href="https://www.instagram.com/4dev.spa"><em class="fab fa-instagram"></em></a></li>
                                                 <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
-                                                <li><a href="#"><em class="fab fa-youtube"></em></a></li>
-                                                <li><a href="#"><em class="fab fa-bitcoin"></em></a></li>
-                                                <li><a href="#"><em class="fab fa-github"></em></a></li>
+                                                <li><a href="https://www.youtube.com/channel/UCd9aaYGdP2uqN-zjPQ7-EwA"><em class="fab fa-youtube"></em></a></li>
+                                                <li><a href="#"><em class="fab fa-linkedin"></em></a></li>
+                                               
                                             </ul>
                                         </div>
                                     </div>
@@ -930,7 +943,7 @@ echo $output;
                                         <a href="./" class="wgs-logo">
                                             <img src="images/logo-full-white.png" srcset="images/logo-full-white2x.png 2x" alt="logo">
                                         </a>
-                                        <p>Copyright © 2020 4dev.cl<br>All rights reserved </p>
+                                        <p>Copyright © 2020 4Dev SpA<br>Todos los Derechos Reservados </p>
                                     </div>
                                 </div>
                             </div><!-- .col -->
