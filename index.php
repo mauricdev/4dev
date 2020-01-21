@@ -460,8 +460,8 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         <img src="images/team/Jose.jpg" alt="team">
                                         <a href="#team-popup-1" class="team-show content-popup"></a>
                                         <ul class="team-social">
-                                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
-                                            <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
+                                            <li><a href="#" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+                                            <li><a href="#" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
                                         </ul>
                                     </div>
                                     <h5 class="team-name title title-sm">Josefa Fuentes</h5>
@@ -479,34 +479,18 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         <div class="col-md-6">
                                             <div class="team-popup-info pl-md-3">
                                                 <h3 class="team-name title title-lg pt-4">Josefa Fuentes</h3>
-                                                <p class="team-position">Tecnóloga en Informática Biomédica</p>
+                                                <p class="team-position">Tecnóloga en Informática Biomédica | Socia Fundadora</p>
                                                 <ul class="team-social mb-4">
-                                                    <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
-                                                    <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                                                    <li><a href="#"><em class="fab fa-facebook-f" target="_blank"></em></a></li>
+                                                    <li><a href="#"><em class="fab fa-linkedin-in" target="_blank"></em></a></li>
                                                 </ul>
 
-                                                Me considero una persona honesta y totalmente comprometida al momento de trabajar, soy un joven normal sin antecedentes que perjudiquen mi hoja de vida, presento aptitudes
-musicales y artisticas ademas de profesionales, mi pasatiempo son los videojuegos, leer noticias para estar al tanto de las nuevas tecnologias e idear mini proyectos que a pesar de
-no ser ejecutados puedan resolver ciertas necesidades de la vida cotidiana. Me caracterizo por ser prudente y tolerante al trabajo bajo presión. Generalmente soy bueno en la
-solución de problemas y creo demostrarlo en mi lugar de estudio.
+                                                
 
 
-                                                <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-                                                <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
-                                                <div class="progress-list">
-                                                    <div class="progress-wrap">
-                                                        <div class="progress-title">Blockchain <span class="progress-amount">85%</span></div>
-                                                        <div class="progress-bar progress-bar-xs bg-black-10">
-                                                            <div class="progress-percent bg-primary" data-percent="85"></div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="progress-wrap">
-                                                        <div class="progress-title">Decentralization <span class="progress-amount">68%</span></div>
-                                                        <div class="progress-bar progress-bar-xs bg-black-10">
-                                                            <div class="progress-percent bg-primary" data-percent="68"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                <p>He is a great Woman to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
+                                                <p>En 4Dev me Desempeño como Consultora Informática Biomédica, Especialista área de la Salud, Administradora, Gestion de Proyectos, Comunicación con clientes.</p>
+                                               
                                             </div>
                                         </div><!-- .col  -->
                                     </div><!-- .row  -->
@@ -518,8 +502,8 @@ solución de problemas y creo demostrarlo en mi lugar de estudio.
                                         <img src="images/team/koke.jpg" alt="team">
                                         <a href="#team-popup-2" class="team-show content-popup"></a>
                                         <ul class="team-social">
-                                            <li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163/"><em class="fab fa-linkedin-in"></em></a></li>
-                                            <li><a href="https://github.com/Donkokes"><em class="fab fa-github"></em></a></li>
+                                            <li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163/" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+                                            <li><a href="https://github.com/Donkokes" target="_blank"><em class="fab fa-github"></em></a></li>
                                         </ul>
                                     </div>
                                     <h5 class="team-name title title-sm">Jorge Troncoso</h5>
@@ -537,13 +521,17 @@ solución de problemas y creo demostrarlo en mi lugar de estudio.
                                         <div class="col-md-6">
                                             <div class="team-popup-info pl-md-3">
                                                 <h3 class="team-name title title-lg pt-4">Jorge Troncoso</h3>
-                                                <p class="team-position">Ingeniero en Informática</p>
+                                                <p class="team-position">Ingeniero en Informática | Socio Fundador</p>
                                                 <ul class="team-social mb-4">
-                                                    <li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163/"><em class="fab fa-linkedin-in"></em></a></li>
-                                                    <li><a href="https://github.com/Donkokes"><em class="fab fa-github"></em></a></li>
+                                                    <li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163/" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+                                                    <li><a href="https://github.com/Donkokes" target="_blank"><em class="fab fa-github"></em></a></li>
                                                 </ul>
-                                                <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-                                                <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
+                                                 
+                                                <p>Me considero una persona honesta y totalmente comprometida al momento de trabajar, soy un joven normal sin antecedentes
+                                                    que perjudiquen mi hoja de vida, presento aptitudes musicales y artisticas ademas de profesionales, mi pasatiempo son 
+                                                    los videojuegos, leer noticias para estar al tanto de las nuevas tecnologias e idear mini proyectos que a pesar de no 
+                                                    ser ejecutados puedan resolver ciertas necesidades de la vida cotidiana.</p>
+                                                <p>En 4Dev me Desempeño como Desarrollador Front-End, Especialista SEO, Diseñador y Webmaster.</p>
                                             </div>
                                         </div><!-- .col  -->
                                     </div><!-- .row  -->
@@ -555,12 +543,12 @@ solución de problemas y creo demostrarlo en mi lugar de estudio.
                                         <img src="images/team/mauri.jpg" alt="team">
                                         <a href="#team-popup-3" class="team-show content-popup"></a>
                                         <ul class="team-social">
-                                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
-                                            <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
+                                            <li><a href="#" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+                                            <li><a href="#" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
                                         </ul>
                                     </div>
                                     <h5 class="team-name title title-sm">Mauricio Gutierrez</h5>
-                                    <span class="team-position">Ingeniero en informatica</span>
+                                    <span class="team-position">Ingeniero en Informática</span>
                                 </div>
                                 <!-- Start .team-profile  -->
                                 <div id="team-popup-3" class="team-popup mfp-hide">
@@ -574,10 +562,10 @@ solución de problemas y creo demostrarlo en mi lugar de estudio.
                                         <div class="col-md-6">
                                             <div class="team-popup-info pl-md-3">
                                                 <h3 class="team-name title title-lg pt-4">Mauricio Gutierrez</h3>
-                                                <p class="team-position">Ingeniero en informatica</p>
+                                                <p class="team-position">Ingeniero en Informática | Socio Fundador</p>
                                                 <ul class="team-social mb-4">
-                                                    <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
-                                                    <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                                                    <li><a href="#" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
+                                                    <li><a href="#" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
                                                 </ul>
                                                 <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
                                                 <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
