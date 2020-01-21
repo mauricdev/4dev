@@ -129,8 +129,8 @@
                                 <div class="nk-block-text">
                                     <h2 class="title">Acerca de 4Dev SpA</h2>
                                     <p class="animated" data-animate="fadeInUp" data-delay=".2">4Dev SpA, es una empresa nacida en Concepción, dedicada a los servicios informáticos enfocándose en el desarrollo, consultorías y el área de la salud con una mirada hacia el futuro en la innovación apoyando a las pequeñas y medianas empresas a potenciar su negocio de la mejor forma posible.</p>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".3"><strong>Nuestra Mision</strong> <br>Apoyar a las pequeñas y medianas empresas a mejorar su negocio integrandose en la era de la digitalización. </p>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".4"><strong>Nuestra Vision</strong><br>Ser reconocidos como la mejor empresa de la octaba región con respecto al apoyo de las pequeñas y medianas empresas.</p>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".3"><strong>Nuestra Mision</strong> <br>Satisfacer las necesidades de nuestros clientes en el desarrollo de servicios tecnológicos, optimizando recursos y asesorando en el desarrollo técnico para facilitar su servicio a través de nuestro profesionales capacitados.</p>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".4"><strong>Nuestra Vision</strong><br>4Dev tiene una mirada en el futuro de las Ti con un gran alcance en el área de salud aportando en un gran desarrollo, innovando e implementando soluciones informáticas a nuestros clientes a lo largo del territorio nacional, siendo reconocidos por nuestra confiabilidad, integridad y compromiso a la hora de trabajar.</p>
                                   
                                 </div>
                             </div>
@@ -275,7 +275,7 @@
                                     <div class="feature-img">
                                         <img src="images/products/b.jpg" alt="product">
                                     </div>
-                                    <h5 class="title title-sm title-dark">Proximamente</h5>
+                                    <h5 class="title title-sm title-dark">Próximamente</h5>
                                 </a>
                             </div><!-- .col -->
                         </div><!-- .row -->
@@ -462,7 +462,7 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         </ul>
                                     </div>
                                     <h5 class="team-name title title-sm">Josefa Fuentes</h5>
-                                    <span class="team-position">Informatica biomedica</span>
+                                    <span class="team-position">Tecnóloga en Informática Biomédica</span>
                                 </div>
                                 <!-- Start .team-profile  -->
                                 <div id="team-popup-1" class="team-popup mfp-hide">
@@ -476,11 +476,18 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         <div class="col-md-6">
                                             <div class="team-popup-info pl-md-3">
                                                 <h3 class="team-name title title-lg pt-4">Josefa Fuentes</h3>
-                                                <p class="team-position">Informatica biomedica </p>
+                                                <p class="team-position">Tecnóloga en Informática Biomédica</p>
                                                 <ul class="team-social mb-4">
                                                     <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
                                                     <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
                                                 </ul>
+
+                                                Me considero una persona honesta y totalmente comprometida al momento de trabajar, soy un joven normal sin antecedentes que perjudiquen mi hoja de vida, presento aptitudes
+musicales y artisticas ademas de profesionales, mi pasatiempo son los videojuegos, leer noticias para estar al tanto de las nuevas tecnologias e idear mini proyectos que a pesar de
+no ser ejecutados puedan resolver ciertas necesidades de la vida cotidiana. Me caracterizo por ser prudente y tolerante al trabajo bajo presión. Generalmente soy bueno en la
+solución de problemas y creo demostrarlo en mi lugar de estudio.
+
+
                                                 <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
                                                 <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
                                                 <div class="progress-list">
@@ -576,6 +583,7 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                     </div><!-- .row  -->
                                 </div><!-- .team-profile  -->
                             </div><!-- .col -->
+                            <!--
                             <div class="col-md-3 col-6">
                                 <div class="team animated" data-animate="fadeInUp" data-delay=".4">
                                     <div class="team-photo">
@@ -589,7 +597,9 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                     <h5 class="team-name title title-sm">Felipe Caceres</h5>
                                     <span class="team-position">Ingeniero en informatica</span>
                                 </div>
+                        -->
                                 <!-- Start .team-profile  -->
+                                <!--
                                 <div id="team-popup-4" class="team-popup mfp-hide">
                                     <a title="Close" class="mfp-close">×</a>
                                     <div class="row align-items-start">
@@ -597,7 +607,9 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                             <div class="team-photo">
                                                 <img src="images/team/felipe.jpg" alt="team">
                                             </div>
-                                        </div><!-- .col  -->
+                                        </div>--> <!-- .col  -->
+
+                                        <!--
                                         <div class="col-md-6">
                                             <div class="team-popup-info pl-md-3">
                                                 <h3 class="team-name title title-lg pt-4">Felipe Caceres</h3>
@@ -609,7 +621,7 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                                 <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
                                                 <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
                                             </div>
-                                        </div><!-- .col  -->
+                                        </div>--><!-- .col  -->
                                     </div><!-- .row  -->
                                 </div><!-- .team-profile  -->
                             </div><!-- .col -->
@@ -786,27 +798,14 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
 
             </section>
             <!-- // -->
-            <section class="section section-m section-partners bg-light" id="partners">
+            <section class="section section-m section-partners bg-light" id="contact">
 
-                <div class="container">
-                    <!-- Block @s -->
-                    <div class="nk-block block-partners">
-                        <h6 class="title title-xs tc-primary text-center">Nuestros clientes</h6>
-                        <ul class="partner-list flex-lg-nowrap">
-                            <li class="partner-logo animated" data-animate="fadeInUp" data-delay=".2"><img src="images/partners/a.png" alt="partner"></li>
-                            <li class="partner-logo animated" data-animate="fadeInUp" data-delay=".3"><img src="images/partners/b.png" alt="partner"></li>
-                            <li class="partner-logo animated" data-animate="fadeInUp" data-delay=".4"><img src="images/partners/c.png" alt="partner"></li>
-
-                        </ul>
-                    </div>
-                    <!-- Block @e -->
-                </div>
-
+                
             </section>
         </main>
     
 		<footer class="nk-footer bg-theme-grad">
-			<section class="section no-pdy section-contact bg-transparent">
+			<section class="section no-pdy section-contact bg-transparent" >
 				<div class="container">
 				    <!-- Block @s -->
 					<div class="nk-block block-contact animated" data-animate="fadeInUp" data-delay=".9" id="contact">
