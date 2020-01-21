@@ -45,7 +45,13 @@
 						<div class="header-navbar animated" data-animate="fadeInDown" data-delay=".75">
 							<nav class="header-menu" id="header-menu">
 								<ul class="menu">
-								
+                                    <li class="menu-item"><a class="menu-link nav-link" href="#about">Nosotros</a></li>
+                                    <li class="menu-item"><a class="menu-link nav-link" href="#problem">Servicios</a></li>
+                                    <li class="menu-item"><a class="menu-link nav-link" href="#tokens">Portafolio</a></li>
+                                    <li class="menu-item"><a class="menu-link nav-link" href="#app-download">Soluciones</a></li>
+                                    <li class="menu-item"><a class="menu-link nav-link" href="#team">Equipo</a></li>
+                                    <li class="menu-item"><a class="menu-link nav-link" href="#faq">FaQ</a></li>
+                                    <li class="menu-item"><a class="menu-link nav-link" href="#contact">Contacto</a></li>
 								</ul>
 							
 							</nav>
@@ -129,8 +135,8 @@
                                 <div class="nk-block-text">
                                     <h2 class="title">Acerca de 4Dev SpA</h2>
                                     <p class="animated" data-animate="fadeInUp" data-delay=".2">4Dev SpA, es una empresa nacida en Concepción, dedicada a los servicios informáticos enfocándose en el desarrollo, consultorías y el área de la salud con una mirada hacia el futuro en la innovación apoyando a las pequeñas y medianas empresas a potenciar su negocio de la mejor forma posible.</p>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".3"><strong>Nuestra Mision</strong> <br>Satisfacer las necesidades de nuestros clientes en el desarrollo de servicios tecnológicos, optimizando recursos y asesorando en el desarrollo técnico para facilitar su servicio a través de nuestro profesionales capacitados.</p>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".4"><strong>Nuestra Vision</strong><br>4Dev tiene una mirada en el futuro de las Ti con un gran alcance en el área de salud aportando en un gran desarrollo, innovando e implementando soluciones informáticas a nuestros clientes a lo largo del territorio nacional, siendo reconocidos por nuestra confiabilidad, integridad y compromiso a la hora de trabajar.</p>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".3"><strong>Nuestra Misión</strong> <br>Satisfacer las necesidades de nuestros clientes en el desarrollo de servicios tecnológicos, optimizando recursos y asesorando en el desarrollo técnico para facilitar su servicio a través de nuestro profesionales capacitados.</p>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".4"><strong>Nuestra Visión</strong><br>4Dev tiene una mirada en el futuro de las Ti con un gran alcance en el área de salud aportando en un gran desarrollo, innovando e implementando soluciones informáticas a nuestros clientes a lo largo del territorio nacional, siendo reconocidos por nuestra confiabilidad, integridad y compromiso a la hora de trabajar.</p>
                                   
                                 </div>
                             </div>
@@ -147,11 +153,8 @@
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <br>
-                    <br>
 
-                        <h2 class="title title-lg animated" data-animate="fadeInUp" data-delay=".6">Ventajas de trabajar con nostros</h2>
+                        <h2 class="title title-lg animated" data-animate="fadeInUp" data-delay=".6">Ventajas de trabajar con nosotros</h2>
                     </div><!-- .section-head @e -->
                     <!-- Block @s -->
                     <div class="nk-block nk-block-features mgb-m30">
@@ -162,7 +165,7 @@
                                         <em class="icon ikon ikon-user"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Somos profesionales en el area</h5>
+                                        <h5 class="title title-sm">Somos profesionales en el área</h5>
                                         <p>Contamos con un equipo multidisciplinario el cual potenciará su negocio desde distintos puntos de vista .</p>
                                     </div>
                                 </div>
@@ -174,7 +177,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h5 class="title title-sm">Innovación, nuestro segundo nombre</h5>
-                                        <p>Somos un equipo con altos estandares de innovación donde mediante metodologias, potenciaremos un mejor futuro para tu negocio.</p>
+                                        <p>Somos un equipo con altos estandares de innovación donde mediante metodologias, potenciaremos un mejor futuro para su negocio.</p>
                                     </div>
                                 </div>
                             </div>
@@ -185,7 +188,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h5 class="title title-sm">Queremos que ahorres tú dinero</h5>
-                                        <p>Contamos con personal capacitado en dar consultarias a su empresa.</p>
+                                        <p>Contamos con personal capacitado en dar consultarias a su empresa y apoyar el futuro de su emprendimiento.</p>
                                     </div>
                                 </div>
                             </div>
@@ -201,15 +204,15 @@
                 <div class="container">
                     <!-- Section Head @s -->
                     <div class="section-head text-center wide-auto-sm">
-                        <h2 class="title">Nuestras soluciones </h2>
-                        <p class="animated" data-animate="fadeInUp" data-delay=".2">Nacimos para dar solucion a tus problemas</p>
+                        <h2 class="title">Nuestros Servicios</h2>
+                        <p class="animated" data-animate="fadeInUp" data-delay=".2">Nacimos para dar solución a tus problemas</p>
                     </div><!-- .section-head @e -->
                     <!-- Block @s -->
                     <div class="nk-block nk-block-problems tc-light">
                         <div class="row no-gutters align-items-center">
                             <div class="col-lg-6">
                                 <div class="feature boxed boxed-lg bg-theme-alt no-mg split-lg-left split-left animated" data-animate="fadeInUp" data-delay=".3">
-                                    <h4 class="title title-md">Creacion de software</h4>
+                                    <h4 class="title title-md">Creación de software</h4>
                                     <p>The automation development provides rem aperiam, et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit molestiae illum qui dolorem eum.</p>
                                     <ul class="list list-dot">
                                         <li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
@@ -223,19 +226,19 @@
                                 <div class="feature-group bg-theme-alt split-right split-lg animated" data-animate="fadeInUp" data-delay=".4">
                                     <div class="feature boxed bg-white-10">
                                         <div class="feature-text">
-                                            <h4 class="title title-md">Creacion paginas web</h4>
+                                            <h4 class="title title-md">Creación de paginas web</h4>
                                             <p>Each year over than 200$ bilion fees rem aperiam, et quasi arch itecto beatae vitae dicta sunt explicabo. Voluptas sit aspernatur aut odit aut fugit molestiae illum qui dolorem eum.</p>
                                         </div>
                                     </div>
                                     <div class="feature boxed bg-white-2">
                                         <div class="feature-text">
-                                            <h4 class="title title-md">Soluciones moviles</h4>
+                                            <h4 class="title title-md">Soluciones móviles</h4>
                                             <p>Scalling is biggest problem that comes rem aperiam, et quasi arch itecto beatae vitae dicta sunt explicabo. Voluptas sit aspern odit aut fugit illum qui dolorem eum.</p>
                                         </div>
                                     </div>
                                     <div class="feature boxed bg-black-10">
                                         <div class="feature-text">
-                                            <h4 class="title title-md">Ayuda a tú compañia</h4>
+                                            <h4 class="title title-md">Ayuda para tú compañia</h4>
                                             <p>Security is most concern for long rem aperiam, et quasi arch itecto beatae vitae  aspernatur aut odit aut fugit molestiae illum qui dolorem ullamco laboris nisi volupt natus.</p>
                                         </div>
                                     </div>
