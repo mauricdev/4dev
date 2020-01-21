@@ -107,7 +107,7 @@
                     </li>
                     -->
                     <li class="rank-item animated" data-animate="fadeInUp" data-delay="0.7">
-                        <img src="images/logo/c.png" alt="logo">
+                        <img src="images/logo/c.png" alt="logo" >
                     </li>
                     <!--
                     <li class="rank-item animated" data-animate="fadeInUp" data-delay="0.8">
@@ -258,24 +258,24 @@
                             <div class="col-lg-4">
                                 <div class="section-head">
                                     <h2 class="title title-s tc-primary">Nuestro portafolio</h2>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".2">En esta sección podremos ver alguno de los proyectos qué hemos realizado a algunos clientes satisfechos.</p>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".2">En esta sección podrá ver parte de los proyectos qué hemos realizado para nuestros clientes.</p>
                                <p class="animated" data-animate="fadeInUp" data-delay=".4"></p>
                                 </div>
                             </div><!-- .col -->
                             <div class="col-lg-4 col-sm-6">
-                                <a href="https://www.google.com" class="feature feature-4 feature-center animated" data-animate="fadeInUp" data-delay=".3">
+                                <a href="https://elpasteleroloco.4dev.cl" target="_blank" class="feature feature-4 feature-center animated" data-animate="fadeInUp" data-delay=".3">
                                     <div class="feature-img">
                                         <img src="images/products/a.jpg" alt="product">
                                     </div>
-                                    <h5 class="title title-sm title-dark">Link a la pagina de pekeño</h5>
+                                    <h5 class="title title-sm title-dark">El Pastelero Loco</h5>
                                 </a>
                             </div><!-- .col -->
                             <div class="col-lg-4 col-sm-6">
-                                <a href="https://www.google.com" class="feature feature-4 feature-center animated" data-animate="fadeInUp" data-delay=".4">
+                                <a href="" class="feature feature-4 feature-center animated" data-animate="fadeInUp" data-delay=".4">
                                     <div class="feature-img">
                                         <img src="images/products/b.jpg" alt="product">
                                     </div>
-                                    <h5 class="title title-sm title-dark">Link a otro proyecto</h5>
+                                    <h5 class="title title-sm title-dark">Proximamente</h5>
                                 </a>
                             </div><!-- .col -->
                         </div><!-- .row -->
@@ -846,37 +846,33 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                             <li>
                                                 <em class="contact-icon fas fa-building"></em>
                                                 <div class="contact-text">
-                                                    <h6>4dev.cl</h6>
-                                                    <span>Nuestra direccion <br> </span>
+                                                    <h6>4Dev SpA</h6>
+                                                    <span><br> </span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <em class="contact-icon fas fa-phone"></em>
                                                 <div class="contact-text">
-                                                    <span>+569 1234 5678</span>
+                                                    <span>+569 67026888</span>
+                                                    <br>
+                                                    <span>+569 52429788</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <em class="contact-icon fas fa-envelope"></em>
                                                 <div class="contact-text">
-                                                    <span>correo@4dev.com</span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <em class="contact-icon fas fa-paper-plane"></em>
-                                                <div class="contact-text">
-                                                    <span></span>
+                                                    <span>comunicaciones@4dev.cl</span>
                                                 </div>
                                             </li>
                                         </ul>
                                         <div class="contact-social">
                                             <h6>Unete a nuestra comunidad</h6>
                                             <ul class="social-links">
-                                                <li><a href="#"><em class="fab fa-twitter"></em></a></li>
+                                                <!--<li><a href="#"><em class="fab fa-twitter"></em></a></li>-->
                                                 <li><a href="https://www.instagram.com/4dev.spa"><em class="fab fa-instagram"></em></a></li>
-                                                <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
+                                                <li><a href="https://www.facebook.com/4DevSpA-103677684499934/"><em class="fab fa-facebook-f"></em></a></li>
                                                 <li><a href="https://www.youtube.com/channel/UCd9aaYGdP2uqN-zjPQ7-EwA"><em class="fab fa-youtube"></em></a></li>
-                                                <li><a href="#"><em class="fab fa-linkedin"></em></a></li>
+                                                <!--<li><a href="#"><em class="fab fa-linkedin"></em></a></li>-->
                                                
                                             </ul>
                                         </div>
