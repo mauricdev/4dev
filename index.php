@@ -46,11 +46,11 @@
 							<nav class="header-menu" id="header-menu">
 								<ul class="menu">
                                     <li class="menu-item"><a class="menu-link nav-link" href="#about">Nosotros</a></li>
-                                    <li class="menu-item"><a class="menu-link nav-link" href="#problem">Servicios</a></li>
+                                    <!--<li class="menu-item"><a class="menu-link nav-link" href="#problem">Servicios</a></li>-->
                                     <li class="menu-item"><a class="menu-link nav-link" href="#tokens">Portafolio</a></li>
                                     <li class="menu-item"><a class="menu-link nav-link" href="#app-download">Soluciones</a></li>
                                     <li class="menu-item"><a class="menu-link nav-link" href="#team">Equipo</a></li>
-                                    <li class="menu-item"><a class="menu-link nav-link" href="#faq">FaQ</a></li>
+                                    <!--<li class="menu-item"><a class="menu-link nav-link" href="#faq">FaQ</a></li>-->
                                     <li class="menu-item"><a class="menu-link nav-link" href="#contact">Contacto</a></li>
 								</ul>
 							
@@ -198,57 +198,7 @@
 
             </section>
             <!-- // -->
-            <!-- // -->
-            <section class="section section-l section-problem bg-light" id="problem">
-
-                <div class="container">
-                    <!-- Section Head @s -->
-                    <div class="section-head text-center wide-auto-sm">
-                        <h2 class="title">Nuestros Servicios</h2>
-                        <p class="animated" data-animate="fadeInUp" data-delay=".2">Nacimos para dar solución a tus problemas</p>
-                    </div><!-- .section-head @e -->
-                    <!-- Block @s -->
-                    <div class="nk-block nk-block-problems tc-light">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col-lg-6">
-                                <div class="feature boxed boxed-lg bg-theme-alt no-mg split-lg-left split-left animated" data-animate="fadeInUp" data-delay=".3">
-                                    <h4 class="title title-md">Creación de software</h4>
-                                    <p>The automation development provides rem aperiam, et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit molestiae illum qui dolorem eum.</p>
-                                    <ul class="list list-dot">
-                                        <li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-                                        <li>Wende omnis iste natus error sit volupt.</li>
-                                        <li>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                                        <li>Exercitation ullamco laboris nisi ut consequ.</li>
-                                    </ul>
-                                </div>
-                            </div><!-- .col -->
-                            <div class="col-lg-6">
-                                <div class="feature-group bg-theme-alt split-right split-lg animated" data-animate="fadeInUp" data-delay=".4">
-                                    <div class="feature boxed bg-white-10">
-                                        <div class="feature-text">
-                                            <h4 class="title title-md">Creación de paginas web</h4>
-                                            <p>Each year over than 200$ bilion fees rem aperiam, et quasi arch itecto beatae vitae dicta sunt explicabo. Voluptas sit aspernatur aut odit aut fugit molestiae illum qui dolorem eum.</p>
-                                        </div>
-                                    </div>
-                                    <div class="feature boxed bg-white-2">
-                                        <div class="feature-text">
-                                            <h4 class="title title-md">Soluciones móviles</h4>
-                                            <p>Scalling is biggest problem that comes rem aperiam, et quasi arch itecto beatae vitae dicta sunt explicabo. Voluptas sit aspern odit aut fugit illum qui dolorem eum.</p>
-                                        </div>
-                                    </div>
-                                    <div class="feature boxed bg-black-10">
-                                        <div class="feature-text">
-                                            <h4 class="title title-md">Ayuda para tú compañia</h4>
-                                            <p>Security is most concern for long rem aperiam, et quasi arch itecto beatae vitae  aspernatur aut odit aut fugit molestiae illum qui dolorem ullamco laboris nisi volupt natus.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!-- .col -->
-                        </div><!-- .row -->
-                    </div><!-- .block @e -->
-                </div>
-
-            </section>
+           
             <!-- // -->
             <section class="bg-theme bg-pattern-dots" id="tokens">
 
@@ -307,8 +257,8 @@
                             </div>
                             <div class="col-lg-5 col-md-10 text-center text-lg-left">
                                 <div class="nk-block-text">
-                                    <h2 class="title">El poder de las aplicaciones moviles</h2>
-                                    <p class="animated" data-animate="fadeInUp" data-delay=".2">Ya no basta con tener un perfil on line, no es suficiente crear un escaparate en el que se brinda la oportunidad de conocer a la empresa, ahora se precisa de interacción entre el cliente y ésta, ahora se necesita ofrecer una serie de servicios que una página web no está preparada para brindar en los dispositivos móviles.</p>
+                                    <h2 class="title">El poder de las aplicaciones móviles</h2>
+                                    <p class="animated" data-animate="fadeInUp" data-delay=".2">Ya no basta con tener un perfil online, no es suficiente crear un sitio en el que se brinda la oportunidad de conocer a la empresa, hoy en día se necesita de interacción entre el cliente y el negocio ofreciendo una serie de servicios que una página web no está preparada al 100% para brindar en los dispositivos móviles.</p>
                                     <div class="pdt-m animated" data-animate="fadeInUp" data-delay=".3">
                                         <a href="#contact" class="btn btn-grad">Contactanos</a>
                                     </div>
@@ -325,24 +275,24 @@
                 <div class="container">
                     <!-- Block @s -->
                     <div class="nk-block nk-block-text-grp mgb-m30">
-                        <h6 class="title title-xs tc-primary pdb-s animated" data-animate="fadeInUp" data-delay=".4">Por qué aplicaciones moviles?</h6>
+                        <h6 class="title title-xs tc-primary pdb-s animated" data-animate="fadeInUp" data-delay=".4">Por qué aplicaciones móviles?</h6>
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="feature feature-5 animated" data-animate="fadeInUp" data-delay=".5">
                                     <h4 class="title title-md">Eficiencia, seguridad y rapidez </h4>
-                                    <p>El cliente necesita eficiencia, seguridad y rapidez; quiere que el acceso a sus servicios y productos sea fluido e intuitivo. No quiere esperar. Una página web enlazada con los perfiles sociales permite llegar a las personas e interactuar con ellas, pero el mero hecho de “llegar” es una meta insuficiente; ahora se necesita gustar, convencer y vender.</p>
+                                    <p>El cliente necesita eficiencia, seguridad y rapidez; quiere que el acceso a sus servicios y productos sea fluido e intuitivo. No quiere esperar. Una página web enlazada con los perfiles sociales permite llegar a las personas e interactuar con ellas, pero el mero hecho de “llegar” es una meta insuficiente; ahora se necesita agradar, convencer y vender.</p>
                                 </div>
                             </div>
                             <div class="col-lg-4">
                                 <div class="feature feature-5 animated" data-animate="fadeInUp" data-delay=".6">
                                     <h4 class="title title-md">El canal de venta perfecto</h4>
-                                    <p>Centrémonos en su poder para las ventas, en las posibilidades que se abren contando con una aplicación para nuestra empresa y poniéndola al alcance del cliente. Sin conocer más datos, ¿no crees que aumentarán las ventas de tu negocio inevitablemente? El acceso y facilidades que se le ofrecen al consumidor, por inercia, permitirán que la marca sea visible, y lo más importante, ofrezca un servicio directo y de calidad.</p>
+                                    <p>Centrémonos en su poder para las ventas, en las posibilidades que se abren contando con una aplicación para su empresa y poniéndola al alcance del cliente. Sin conocer más datos, ¿no cree que aumentarán las ventas de su negocio inevitablemente? El acceso y facilidades que se le ofrecen al consumidor, por inercia, permitirán que la marca sea visible, y lo más importante, ofrezca un servicio directo y de calidad.</p>
                                 </div>
                             </div>
                             <div class="col-lg-4">
                                 <div class="feature feature-5 animated" data-animate="fadeInUp" data-delay=".7">
                                     <h4 class="title title-md">Las Apps son el presente y futuro</h4>
-                                    <p>Se trata de una herramienta que ya emplean millones de personas en todo el mundo. En lo que va de año, hemos superado los 15.000 millones de descargas. Tu negocio no puede permitirse el lujo de prescindir de esas ventajas, al igual que tus clientes actuales y en potencia tampoco.</p>
+                                    <p>Se trata de una herramienta que ya emplean millones de personas en todo el mundo. En lo que va de año, las aplicaciones han superado los 15.000 millones de descargas. Su negocio no puede permitirse el lujo de prescindir de esas ventajas, al igual que sus clientes actuales y en potencia tampoco.</p>
                                 </div>
                             </div>
                         </div><!-- .row -->
@@ -351,7 +301,7 @@
 
             </section>
             <!-- // -->
-            <section class="section section-l tc-light bg-theme-grad" id="admin-intro">
+            <section class="section section-l tc-light bg-theme-grad" id="sistema">
 
                 <div class="container">
                     <!-- Block @s -->
@@ -460,8 +410,7 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         <img src="images/team/Jose.jpg" alt="team">
                                         <a href="#team-popup-1" class="team-show content-popup"></a>
                                         <ul class="team-social">
-                                            <li><a href="#" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
-                                            <li><a href="#" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
+                                            <li><a href="https://www.linkedin.com/in/josefa-fuentes-42303216a" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
                                         </ul>
                                     </div>
                                     <h5 class="team-name title title-sm">Josefa Fuentes</h5>
@@ -481,15 +430,12 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                                 <h3 class="team-name title title-lg pt-4">Josefa Fuentes</h3>
                                                 <p class="team-position">Tecnóloga en Informática Biomédica | Socia Fundadora</p>
                                                 <ul class="team-social mb-4">
-                                                    <li><a href="#"><em class="fab fa-facebook-f" target="_blank"></em></a></li>
-                                                    <li><a href="#"><em class="fab fa-linkedin-in" target="_blank"></em></a></li>
+                                                    <li><a href="https://www.linkedin.com/in/josefa-fuentes-42303216a" target="_blank"><em class="fab fa-linkedin-in" ></em></a></li>
                                                 </ul>
 
                                                 
-
-
-                                                <p>He is a great Woman to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-                                                <p>En 4Dev me Desempeño como Consultora Informática Biomédica, Especialista área de la Salud, Administradora, Gestion de Proyectos, Comunicación con clientes.</p>
+                                                <p>Profesional Especialista en Gestión y Levantamiento de Requerimientos. Posee habilidades de Administración y manejo de herramientas Office, además de estar ligada al área de la salud, es una profesional capaz de conectar con los clientes logrando un buen ambiente de trabajo para entregar el mejor servicio.</p>
+                                                <p>En 4Dev se Desempeña como Consultora Informática Biomédica, Especialista área de la Salud, Administradora, Gestion de Proyectos, Comunicación con clientes.</p>
                                                
                                             </div>
                                         </div><!-- .col  -->
@@ -527,11 +473,8 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                                     <li><a href="https://github.com/Donkokes" target="_blank"><em class="fab fa-github"></em></a></li>
                                                 </ul>
                                                  
-                                                <p>Me considero una persona honesta y totalmente comprometida al momento de trabajar, soy un joven normal sin antecedentes
-                                                    que perjudiquen mi hoja de vida, presento aptitudes musicales y artisticas ademas de profesionales, mi pasatiempo son 
-                                                    los videojuegos, leer noticias para estar al tanto de las nuevas tecnologias e idear mini proyectos que a pesar de no 
-                                                    ser ejecutados puedan resolver ciertas necesidades de la vida cotidiana.</p>
-                                                <p>En 4Dev me Desempeño como Desarrollador Front-End, Especialista SEO, Diseñador y Webmaster.</p>
+                                                <p>Profesional Especializado en Front-End, desarrollo web y Aplicaciones de Escritorio. Posee habilidades de Diseño en conjunto manejo de Photoshop, Illustrator y otras tenologias tales como el manejo de una variedad de ambientes de desarrollo y uso de lenguajes de programación como C#, PHP, JAVA, etc. </p>
+                                                <p>En 4Dev se desempeña como Desarrollador Front-End, Especialista SEO, Diseñador y Webmaster.</p>
                                             </div>
                                         </div><!-- .col  -->
                                     </div><!-- .row  -->
@@ -543,8 +486,8 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         <img src="images/team/mauri.jpg" alt="team">
                                         <a href="#team-popup-3" class="team-show content-popup"></a>
                                         <ul class="team-social">
-                                            <li><a href="#" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
-                                            <li><a href="#" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
+                                            <li><a href="https://www.linkedin.com/in/mauricio-gutierrez-sanhueza-8569b217a/" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+                                            <li><a href="https://github.com/mauricdev" target="_blank"><em class="fab fa-github"></em></a></li>
                                         </ul>
                                     </div>
                                     <h5 class="team-name title title-sm">Mauricio Gutierrez</h5>
@@ -564,9 +507,9 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                                 <h3 class="team-name title title-lg pt-4">Mauricio Gutierrez</h3>
                                                 <p class="team-position">Ingeniero en Informática | Socio Fundador</p>
                                                 <ul class="team-social mb-4">
-                                                    <li><a href="#" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
-                                                    <li><a href="#" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
-                                                </ul>
+                                                    <li><a href="https://www.linkedin.com/in/mauricio-gutierrez-sanhueza-8569b217a/" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+                                                    <li><a href="https://github.com/mauricdev" target="_blank"><em class="fab fa-github"></em></a></li>
+                                                 </ul>
                                                 <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
                                                 <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
                                             </div>
@@ -622,15 +565,21 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                 </div>
             </section>
             <!-- // -->
+
+            <!--
             <section class="section section-l section-faq bg-white" id="faq">
                 
                 <div class="container">
+
+                        -->
                     <!-- Section Head @s -->
+
+                    <!-- /
                     <div class="section-head text-center wide-auto">
                         <h2 class="title">Preguntas y respuestas</h2>
                         <p class="animated" data-animate="fadeInUp" data-delay=".2">Acá podras resolver algunas dudas, sinó podras contactarnos por el formulario de contacto.</p>
-                    </div><!-- .section-head @e -->
-                    <!-- Block @s -->
+                    </div>/ --> <!-- .section-head @e -->
+                    <!-- Block @s --> <!-- /
                     <div class="nk-block block-faq">
                         <div class="row">
                             <div class="col-md-4 col-lg-3 mb-4 mb-lg-0">
@@ -640,7 +589,8 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                     <li><a data-toggle="tab" href="#tokens-sales"><em class="fas fa-caret-right"></em>Tokens Sales</a></li>
                                     <li><a data-toggle="tab" href="#clients-releted"><em class="fas fa-caret-right"></em>Clients Releted</a></li>
                                 </ul>
-                            </div><!-- .col -->
+                            </div>--><!-- .col -->
+                            <!-- 
                             <div class="col-md-8 col-lg-9">
                                 <div class="tab-content">
                                     <div class="tab-pane fade show active" id="general-questions">
@@ -782,12 +732,15 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         </div>
                                     </div>
                                 </div>
-                            </div><!-- .col -->
-                        </div><!-- .row -->
-                    </div><!-- .block @e -->
-                </div>
-
-            </section>
+                            </div>-->      <!-- .col -->
+                            <!--
+                        </div>-->     <!-- .row -->
+                    <!--
+                    </div>-->  <!-- .block @e -->
+                <!--
+                </div>-->  
+            <!--
+            </section>    -->
             <!-- // -->
             <section class="section section-m section-partners bg-light" id="contact">
 
@@ -836,7 +789,7 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                             <li>
                                                 <em class="contact-icon fas fa-building"></em>
                                                 <div class="contact-text">
-                                                    <h6>4Dev SpA</h6>
+                                                    <h6>4Dev SpA | Servicios Informáticos</h6>
                                                     <span><br> </span>
                                                 </div>
                                             </li>
@@ -858,11 +811,11 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                                         <div class="contact-social">
                                             <h6>Unete a nuestra comunidad</h6>
                                             <ul class="social-links">
-                                                <!--<li><a href="#"><em class="fab fa-twitter"></em></a></li>-->
-                                                <li><a href="https://www.instagram.com/4dev.spa"><em class="fab fa-instagram"></em></a></li>
-                                                <li><a href="https://www.facebook.com/4DevSpA-103677684499934/"><em class="fab fa-facebook-f"></em></a></li>
-                                                <li><a href="https://www.youtube.com/channel/UCd9aaYGdP2uqN-zjPQ7-EwA"><em class="fab fa-youtube"></em></a></li>
-                                                <!--<li><a href="#"><em class="fab fa-linkedin"></em></a></li>-->
+                                                <!--<li><a href="#" target="_blank"><em class="fab fa-twitter"></em></a></li>-->
+                                                <li><a href="https://www.instagram.com/4dev.spa" target="_blank"><em class="fab fa-instagram"></em></a></li>
+                                                <li><a href="https://www.facebook.com/4DevSpA-103677684499934/" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
+                                                <li><a href="https://www.youtube.com/channel/UCd9aaYGdP2uqN-zjPQ7-EwA" target="_blank"><em class="fab fa-youtube"></em></a></li>
+                                                <!--<li><a href="#" target="_blank"><em class="fab fa-linkedin"></em></a></li>-->
                                                
                                             </ul>
                                         </div>
@@ -884,41 +837,36 @@ Existen algunos aspectos muy positivos para conocer las principales ventajas de 
                         <div class="row">
                             <div class="col-lg-2 col-sm-4 mb-4 mb-sm-0">
                                 <div class="wgs wgs-menu animated" data-animate="fadeInUp" data-delay=".2">
-                                    <h6 class="wgs-title">Company</h6>
+                                    <h6 class="wgs-title">Empresa</h6>
                                     <div class="wgs-body">
                                         <ul class="wgs-links">
-                                            <li><a href="#">About Us</a></li>
-                                            <li><a href="#">Meet Our Team</a></li>
-                                            <li><a href="#">Advisors</a></li>
-                                            <li><a href="#">Contact Us</a></li>
-                                            <li><a href="#">Insights</a></li>
+                                            <li><a href="#about">Nosotros</a></li>
+                                            <li><a href="#tokens">Portafolio</a></li>
+                                            <li><a href="#team">Equipo</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div><!-- .col -->
                             <div class="col-lg-2 col-sm-4 mb-4 mb-sm-0">
                                 <div class="wgs wgs-menu animated" data-animate="fadeInUp" data-delay=".3">
-                                    <h6 class="wgs-title">Legal</h6>
+                                    <h6 class="wgs-title">Servicios</h6>
                                     <div class="wgs-body">
                                         <ul class="wgs-links">
-                                            <li><a href="#">Terms &amp; Conditions</a></li>
-                                            <li><a href="#">Privacy Policy</a></li>
-                                            <li><a href="#">Terms of Sales</a></li>
-                                            <li><a href="#">Whitepaper</a></li>
+                                            <li><a href="#app-download">Soluciones</a></li>
+                                            <li><a href="#sistema">Diseño Web</a></li>
+                                            <li><a href="#sistema">Software</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div><!-- .col -->
                             <div class="col-lg-2 col-sm-4 mb-4 mb-sm-0">
                                 <div class="wgs wgs-menu animated" data-animate="fadeInUp" data-delay=".4">
-                                    <h6 class="wgs-title">Quick Links</h6>
+                                    <h6 class="wgs-title">Redes Sociales</h6>
                                     <div class="wgs-body">
                                         <ul class="wgs-links">
-                                            <li><a href="#">Ecosystems</a></li>
-                                            <li><a href="#">Tokens</a></li>
-                                            <li><a href="#">Roadmaps</a></li>
-                                            <li><a href="#">Faqs</a></li>
-                                            <li><a href="#">Login</a></li>
+                                            <li><a href="https://www.facebook.com/4DevSpA-103677684499934/" target="_blank">Facebook</a></li>
+                                            <li><a href="https://www.instagram.com/4dev.spa/" target="_blank">Instagram</a></li>
+                                            <li><a href="https://www.youtube.com/channel/UCd9aaYGdP2uqN-zjPQ7-EwA" target="_blank">Youtube</a></li>
                                         </ul>
                                     </div>
                                 </div>

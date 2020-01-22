@@ -6,10 +6,10 @@ $mail = new PHPMailer();
 $emailTO = $emailBCC =  $emailCC = array(); $formEmail = '';
 
 ### Enter Your Sitename 
-$sitename = 'Softnio';
+$sitename = '4Dev SpA';
 
 ### Enter your email addresses: @required
-$emailTO[] = array( 'email' => 'abu@softnio.com', 'name' => 'Abu' ); 
+$emailTO[] = array( 'email' => 'comunicaciones@4dev.cl', 'name' => '4Dev SpA' ); 
 
 ### Enable bellow parameters & update your BCC email if require.
 //$emailBCC[] = array( 'email' => 'email@yoursite.com', 'name' => 'Your Name' );
@@ -18,13 +18,13 @@ $emailTO[] = array( 'email' => 'abu@softnio.com', 'name' => 'Abu' );
 //$emailCC[] = array( 'email' => 'email@yoursite.com', 'name' => 'Your Name' );
 
 ### Enter Email Subject
-$subject = "Contact Us on Crypto" . ' - ' . $sitename; 
+$subject = "Confirmacion Contacto" . ' - ' . $sitename; 
 
 ### If your did not recive email after submit form please enable below line and must change to your correct domain name. eg. noreply@example.com
 //$formEmail = 'noreply@yoursite.com';
 
 ### Success Messages
-$msg_success = "We have <strong>successfully</strong> received your message. We'll get back to you soon.";
+$msg_success = "Hemos <strong>recibido</strong> su mensaje Satisfactoriamente. Nuestro equipo se pondrá en contacto lo mas pronto posible.";
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST') {
 	if (isset($_POST["contact-email"]) && $_POST["contact-email"] != '' && isset($_POST["contact-name"]) && $_POST["contact-name"] != '') {
@@ -67,7 +67,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST') {
 			$bodymsg .= isset($cf_name) ? "Contact Name: $cf_name<br><br>" : '';
 			$bodymsg .= isset($cf_email) ? "Contact Email: $cf_email<br><br>" : '';
 			$bodymsg .= isset($cf_message) ? "Message: $cf_message<br><br>" : '';
-			$bodymsg .= $_SERVER['HTTP_REFERER'] ? '<br>---<br><br>This email was sent from [ICO]: ' . $_SERVER['HTTP_REFERER'] : '';
+			$bodymsg .= $_SERVER['HTTP_REFERER'] ? '<br>---<br><br>Este Correo fue enviado desde 4Dev.cl: ' . $_SERVER['HTTP_REFERER'] : '';
 			
 			// Protect Submission from outside
 			if ( preg_match("/themenio.com/", $_SERVER['HTTP_REFERER'])) {
@@ -76,7 +76,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST') {
 				$msg_error = $mail->ErrorInfo;
 			} else {
 				$is_emailed = false;
-				$msg_error = "<strong>Ohh! You are really stupid.</strong>! Now time to stop and purchase this template.";
+				$msg_error = "<strong>Error.</strong>! No se saben los detalles, intentalo nuevamente.";
 			}
 			
 			if( $is_emailed === true ) {
@@ -87,9 +87,9 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST') {
 			echo json_encode($response);
 			
 		} else {
-			echo json_encode(array ('result' => "error", 'message' => "Bot <strong>Detected</strong>.! Clean yourself Botster.!"));
+			echo json_encode(array ('result' => "error", 'message' => "Bot <strong>Detectado</strong>.! Error Critico.!"));
 		}
 	} else {
-		echo json_encode(array ('result' => "error", 'message' => "Please <strong>Fill up</strong> all required fields and try again."));
+		echo json_encode(array ('result' => "error", 'message' => "Por Favor <strong>Revisa,</strong> Todos los campos son requeridos, prueba denuevo."));
 	}
 }
